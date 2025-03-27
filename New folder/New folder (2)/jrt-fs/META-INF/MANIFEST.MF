@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Java Platform API Specification
+Specification-Version: 22
+Specification-Vendor: Oracle Corporation
+Implementation-Title: Java Runtime Environment
+Implementation-Version: 22.0.1
+Implementation-Vendor: Oracle Corporation
+Created-By: 21 (Oracle Corporation)
+
